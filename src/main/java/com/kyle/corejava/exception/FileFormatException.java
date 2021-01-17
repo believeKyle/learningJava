@@ -1,4 +1,4 @@
-package com.kyle.core;
+package com.kyle.corejava.exception;
 
 import java.io.IOException;
 

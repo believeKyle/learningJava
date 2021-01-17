@@ -1,9 +1,6 @@
-package com.kyle.core;
+package com.kyle.corejava;
 
-import javax.print.attribute.standard.MediaSize;
-import java.time.LocalDate;
 import java.util.Date;
-import java.util.Objects;
 
 public class Employee implements Comparable<Employee>,Cloneable{
 
